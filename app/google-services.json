@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409075040493",
+    "project_id": "santos-b8e7d",
+    "storage_bucket": "santos-b8e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409075040493:android:f401f144db7ca98d054ce4",
+        "android_client_info": {
+          "package_name": "com.example.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409075040493-c5eh4vql3sq2ntkvik9u0cenjm701u71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurant",
+            "certificate_hash": "d4425c814925fb0c049ab0a93a273e3af06c33b0"
+          }
+        },
+        {
+          "client_id": "409075040493-8sjdf5ub39uemve7m67vnmr0ujne71vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQK93FnDqWm3ByOCyloyZovNgBt8M89MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409075040493-8sjdf5ub39uemve7m67vnmr0ujne71vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
