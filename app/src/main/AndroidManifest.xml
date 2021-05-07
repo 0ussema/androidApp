@@ -11,6 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Restaurant"
         tools:replace="android:theme">
+        <activity android:name=".FoodDetails" />
         <activity android:name=".FoodList" />
         <activity
             android:name=".Home"

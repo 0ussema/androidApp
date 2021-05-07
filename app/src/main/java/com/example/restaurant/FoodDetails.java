@@ -17,7 +17,7 @@ package com.example.restaurant;
         import com.google.firebase.database.ValueEventListener;
         import com.squareup.picasso.Picasso;
 
-public class FoodDetail extends AppCompatActivity {
+public class FoodDetails extends AppCompatActivity {
 
     TextView food_name, food_price , food_description;
     ImageView food_image;
